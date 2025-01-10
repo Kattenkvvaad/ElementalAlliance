@@ -57,7 +57,7 @@ let options = {
 
         filterColumn: 'Design Type',
         searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist'],
-        fauxFolderColumn: 'Species',
+        fauxFolderColumn: 'Division',
 
     },
 
